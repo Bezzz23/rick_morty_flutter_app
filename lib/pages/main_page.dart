@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_app/pages/characters_page.dart';
-import 'package:test_app/pages/episodes_page.dart';
-import 'package:test_app/repositories/character_repository.dart';
+import 'package:rick_morty_flutter_app/pages/characters_page.dart';
+import 'package:rick_morty_flutter_app/pages/episodes_page.dart';
+import 'package:rick_morty_flutter_app/repositories/character_repository.dart';
 
 class MainPage extends StatelessWidget {
   final CharacterRepository characterRepository = CharacterRepository();

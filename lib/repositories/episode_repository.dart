@@ -1,5 +1,5 @@
-import 'package:test_app/models/episode_model.dart';
-import 'package:test_app/providers/episode_api_provider.dart';
+import 'package:rick_morty_flutter_app/models/episode_model.dart';
+import 'package:rick_morty_flutter_app/providers/episode_api_provider.dart';
 
 class EpisodeRepository {
   EpisodeProvider episodeProvider = EpisodeProvider();

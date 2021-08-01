@@ -1,4 +1,4 @@
-import 'package:test_app/models/episode_model.dart';
+import 'package:rick_morty_flutter_app/models/episode_model.dart';
 
 abstract class EpisodeState {}
 

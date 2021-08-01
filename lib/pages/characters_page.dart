@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_app/cubit/character_cubit.dart';
-import 'package:test_app/state/character_state.dart';
-import 'package:test_app/widgets/character_card.dart';
+import 'package:rick_morty_flutter_app/cubit/character_cubit.dart';
+import 'package:rick_morty_flutter_app/state/character_state.dart';
+import 'package:rick_morty_flutter_app/widgets/character_card.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class CharactersPage extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:test_app/models/episode_model.dart';
+import 'package:rick_morty_flutter_app/models/episode_model.dart';
 import '../config/api_config.dart';
 import 'dart:convert';
 
